@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="index.aspx" title="Principal"  description="Pagina principal">
+    <siteMapNode url="Programa.aspx" title="Nuestro programa"  description="Nuestro Programa" />
+    <siteMapNode url="porque.aspx" title="Por que Continental"  description="Porque Continental" />
+	<siteMapNode url="investigacion.aspx" title="Investigación" description= "Investigación Continental" />
+	<siteMapNode url="experiencia.aspx" title="Experiencia" description= "Experiencia en la Continental" />
+	<siteMapNode url="noticias.aspx" title="Noticias" description= "Noticias en la Continental"></siteMapNode>
+	<siteMapNode url="intranet.aspx" title="Iniciar sesion" description= "Iniciar sesion continental"></siteMapNode>
+
+
+  </siteMapNode>
+</siteMap>
+
